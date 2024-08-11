@@ -20,8 +20,8 @@ https://github.com/JiaT75
 
 1. Uninstall the Google Translate app which doesn't work (if you've kept it installed for some reason...)
 2. Download the patched APKS:
-* [**version 8.14**](https://github.com/zb3/google-translate-patch/releases/latest/download/translate_814_requires_lens.apk) if you want to use Google Lens:
-* [**version 7.1**](https://github.com/zb3/google-translate-patch/releases/latest/download/translate_old_71_no_lens_required.apk)
+* [**version 8.14**](https://github.com/zb3/google-translate-android-patch/releases/latest/download/translate_814_requires_lens.apk) if you want to use Google Lens:
+* [**version 7.1**](https://github.com/zb3/google-translate-android-patch/releases/latest/download/translate_old_71_no_lens_required.apk)
 3. Install and enjoy ~~backdoors~~ the app :)
 
 
